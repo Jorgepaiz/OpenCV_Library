@@ -24,6 +24,11 @@
 			<key>orderHint</key>
 			<integer>11</integer>
 		</dict>
+		<key>opencv2_contrib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>opencv2_core.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -39,15 +44,30 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>opencv2_haartraining_engine.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
 		<key>opencv2_imgproc.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>opencv2_legacy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
 		<key>opencv2_ml.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>8</integer>
+		</dict>
+		<key>opencv2_objdetect.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
 		</dict>
 		<key>opencv2_ts.xcscheme</key>
 		<dict>
@@ -128,6 +148,26 @@
 			<true/>
 		</dict>
 		<key>DA250BBB1427A5570080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250BF71427A66A0080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250C051427A6760080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250C111427A68E0080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250C1D1427A6A90080A6E4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
