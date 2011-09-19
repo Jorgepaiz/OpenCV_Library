@@ -3,10 +3,41 @@
 <plist version="1.0">
 <dict>
 	<key>SchemeUserState</key>
-	<dict/>
+	<dict>
+		<key>libjpeg.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>libpng.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>zlib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>DA25086414278C690080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA25089B14278D010080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>DAC9334C142782F400CA5E29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DAC9335E142786C300CA5E29</key>
 		<dict>
 			<key>primary</key>
 			<true/>
