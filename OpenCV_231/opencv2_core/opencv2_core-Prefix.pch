@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'opencv2_core' target in the 'opencv2_core' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
