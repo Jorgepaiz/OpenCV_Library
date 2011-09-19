@@ -19,10 +19,20 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>opencv2_calib3d.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>opencv2_core.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
+		</dict>
+		<key>opencv2_features2d.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
 		</dict>
 		<key>opencv2_flann.xcscheme</key>
 		<dict>
@@ -43,6 +53,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>6</integer>
+		</dict>
+		<key>opencv2_video.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
 		</dict>
 		<key>zlib.xcscheme</key>
 		<dict>
@@ -98,6 +113,21 @@
 			<true/>
 		</dict>
 		<key>DA250A1914279C910080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250B361427A1D90080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250B441427A1F60080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250BBB1427A5570080A6E4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
