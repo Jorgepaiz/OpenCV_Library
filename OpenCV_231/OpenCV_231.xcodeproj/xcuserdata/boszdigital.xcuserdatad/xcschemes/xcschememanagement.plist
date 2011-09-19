@@ -22,7 +22,27 @@
 		<key>opencv2_core.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>opencv2_flann.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>5</integer>
+		</dict>
+		<key>opencv2_imgproc.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>opencv2_ml.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>opencv2_ts.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
 		</dict>
 		<key>zlib.xcscheme</key>
 		<dict>
@@ -58,6 +78,26 @@
 			<true/>
 		</dict>
 		<key>DA25098D14279A130080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA2509F314279C510080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250A0114279C6E0080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250A0D14279C810080A6E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DA250A1914279C910080A6E4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
